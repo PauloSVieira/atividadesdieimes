@@ -1,0 +1,35 @@
+.feedback {
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid #ddd;
+}
+
+.feedback h2 {
+    color: #333;
+}
+
+.feedback form {
+    margin-top: 10px;
+}
+
+.feedback label {
+    display: block;
+    margin-bottom: 5px;
+    color: #666;
+}
+
+.feedback input[type="text"],
+.feedback textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+}
+
+.feedback input[type="submit"] {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
