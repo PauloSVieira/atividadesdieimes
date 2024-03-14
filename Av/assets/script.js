@@ -46,7 +46,7 @@ document.getElementById('kid').addEventListener('click', function () {
 
 // Aqui e feito a troca de imagens!
 
-var imgNike = "assets/img/Nike.jpg";
+var imgNike = "assets/img/Nike.jpeg";
 var imgAdidas = "assets/img/Adidas.jpeg";
 var imgPuma = "assets/img/Puma.jpg";
 
