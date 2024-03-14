@@ -45,6 +45,7 @@ nav {
 nav a {
     text-decoration: none;
     color: var(--home-2);
+    cursor: url(Img/cursorhover.png), auto;
 }
 
 #logo {   
@@ -72,6 +73,7 @@ nav a {
   text-decoration: none;
   color: #283618; 
   font-size: 20vh; 
+  cursor: url(Img/cursorhover.png), auto;
 }
 
 footer {
@@ -86,4 +88,8 @@ footer {
 
 footer p {
     margin-bottom: 10px;
+}
+
+#nome {
+    font-size: 17px;
 }

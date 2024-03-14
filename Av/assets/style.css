@@ -41,7 +41,7 @@ a:hover {
     /* Paleta kid */
     --kid-1: #333533;
     --kid-2: #202020;
-    --kid-3: #FEFAE0;
+    --kid-3: #FFFAE5;
     --kid-4: #FFEE32;
     --kid-5: #FFD100;
 
@@ -84,6 +84,7 @@ nav {
     color: var(--home-1);
     text-decoration: none;
     font-size: 17px;
+    cursor: url(Img/cursorhover.png), auto;
 }
 
 .nav-itens a:hover {
