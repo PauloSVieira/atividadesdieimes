@@ -65,7 +65,7 @@ nav a {
     font-size: 17px;
     display: flex;
     justify-content: center;
-    padding-top: 120px;
+    padding-top: 3%;
     color: var(--home-1);
 }
 
@@ -88,8 +88,4 @@ footer {
 
 footer p {
     margin-bottom: 10px;
-}
-
-#nome {
-    font-size: 17px;
 }
